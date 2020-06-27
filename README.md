@@ -1,7 +1,7 @@
 # Project Title:  
 Capacitive Textile Sensing (CTS):An e-Textile for sensing the applied pressure on body to measure motor-neurological response in Glasgow Coma Scale (GCS)
 ## Name: H T M A Riyadh
-Course: Interactive System course project, Saarland University
+## Course: Interactive System course project, Saarland University
 # Project Concept:
 Glasgo Coma Scale is used to asses a patient's consciousness level based on the neurological scale. Emergency medical services, nurses, physicians use GCS for assessing consciousness of patients mainly neck/head injured or trauma patients. The score level is 1 to 15. It is the initial stage of assessing neurological injured also known as traumatic brain injury patients. There are three main elements for this scale: eye, verbal and motor response. In this project I only consider the pressure input that is related to the eye and motor response. Verbal response is out of scope of this project.
 # The sensor
