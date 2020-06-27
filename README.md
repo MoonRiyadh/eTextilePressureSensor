@@ -20,3 +20,5 @@ We need a sensor that can measure the pressure or pressure sensitive. I proposed
 5. Now place a resistive material on it. Remember no glue will be attached to resistive to conductive material
 6. On top of it, place second conductive material and ten followed by a bonding material.
 7. Then, on top of it place non conductive material and iron on it. 
+See the image below:
+![](Resources/sensor%20layout.jpg)
