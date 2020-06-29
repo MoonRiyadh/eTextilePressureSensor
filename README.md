@@ -21,4 +21,4 @@ We need a sensor that can measure the pressure or pressure sensitive. I proposed
 6. On top of it, place second conductive material and ten followed by a bonding material.
 7. Then, on top of it place non conductive material and iron on it. 
 See the image below:
-![](Resources/sensor%20layout.jpg)
+![](resources/sensor%20layout.jpg)
