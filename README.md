@@ -6,9 +6,9 @@ Capacitive Textile Sensing (CTS):An e-Textile for sensing the applied pressure o
 Glasgo Coma Scale is used to asses a patient's consciousness level based on the neurological scale. Emergency medical services, nurses, physicians use GCS for assessing consciousness of patients mainly neck/head injured or trauma patients. The score level is 1 to 15. It is the initial stage of assessing neurological injured also known as traumatic brain injury patients. There are three main elements for this scale: eye, verbal and motor response. In this project I only consider the pressure input that is related to the eye and motor response. Verbal response is out of scope of this project.
 # List of materials
 1. Arduino Uno
-- Connect the sensor to the monitor 
-- Take the input 
-- Display the output 
+  - Connect the sensor to the monitor 
+  - Take the input 
+  - Display the output 
 2. Non-conductive, thin fabric
 - It will use for outer layer of the sensor
 3. Non-conductive, thicker fabric
