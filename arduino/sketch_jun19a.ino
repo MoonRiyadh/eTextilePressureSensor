@@ -1,5 +1,6 @@
 
 // eTextile Sensor
+// H T M A Riyadh
 // https://github.com/MoonRiyadh/eTextilePressureSensor.git
 // This is the code for sensing the pressure from the textile sensor 
 
@@ -7,7 +8,7 @@
 
 //----------------------------***********Attention***********------------------------------ 
 // This code is still in implementation phase. 
-// Some part of this code will be changed as per the demand of the prohect
+// Some part of this code will be changed as per the demand of the project
 //-----------------------------------------------------------------------------------------
 
 
@@ -60,7 +61,7 @@ void loop()
 
 }
 
-// ---------------- Here there be Dragons ---------- 
+// ---------------- read the capacitance ----------
 
 int capacitiveRead(int pinA, int pinB, int number) {
   int capacitanceA = 0;
