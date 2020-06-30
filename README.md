@@ -10,33 +10,34 @@ Glasgo Coma Scale is used to asses a patient's consciousness level based on the 
    - Take the input 
    - Display the output 
 2. Non-conductive, thin fabric
-- It will use for outer layer of the sensor
+   - It will use for outer layer of the sensor
 3. Non-conductive, thicker fabric
-- It will give the strength to the sensor
-- Make the structure of the sensor
+   - It will give the strength to the sensor
+   - Make the structure of the sensor
 4. Conductive fabric
-- For making the Anode and Cathode of the sensor. 
--Passing the electric signal 
+   - For making the Anode and Cathode of the sensor. 
+   - Passing the electric signal 
 5. Piezo-resistive fabric
-- Give the resistance of the sensor 
+   - Give the resistance of the sensor 
 6. Dual sided bonding material
-- Attaching the 1-5 materials together
+   - Attaching the 1-5 materials together
 7. Alligator clips
-- Helps to connect the sensor end to the Arduino 
+   - Helps to connect the sensor end to the Arduino 
 8. Scissors
-- For cutting the materials 
+   - For cutting the materials 
 9. Iron
-- It will be use the iron the cloth after applying the wax paper and glue. 
-- Attach the glued cloth layer strongly
+   - It will be use the iron the cloth after applying the wax paper and glue. 
+   - Attach the glued cloth layer strongly
 11. Wax-paper
-- For separating the conductive layer from cloths 
-- Help to reassemble later.
+   - For separating the conductive layer from cloths 
+   - Help to reassemble later.
 12. Wire/Jumper/Cable
-- Connect the Micro-controller to the monitor/computer 
+   - Connect the Micro-controller to the monitor/computer 
 13. Monitor
-- Display the output result 
+   - Display the output result 
 14. RGB LED (optional)
--  Indicating the pressure level according to color coding: green(Low) to red(High)
+  -  Indicating the pressure level according to color coding: green(Low) to red(High)
+
 # The sensor
 We need a sensor that can measure the pressure or pressure sensitive. I proposed smart e-Fabric, that can able to measure the pressure applied on it. To implement this type of intelligent clothes sensor, we need conductive and piezo resistive textile fabric. This type of clothes already available on the market. We need the following components are needed to make our pressure sensor.
 - Non-conductive fabric for outer layer. For the top layer, glue must be bottom face and the Bottom layer, glue must be up face.
