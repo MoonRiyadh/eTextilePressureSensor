@@ -28,15 +28,15 @@ Glasgo Coma Scale is used to asses a patient's consciousness level based on the 
 9. Iron
    - It will be use the iron the cloth after applying the wax paper and glue. 
    - Attach the glued cloth layer strongly
-11. Wax-paper
-   - For separating the conductive layer from cloths 
-   - Help to reassemble later.
-12. Wire/Jumper/Cable
-   - Connect the Micro-controller to the monitor/computer 
-13. Monitor
-   - Display the output result 
-14. RGB LED (optional)
-  -  Indicating the pressure level according to color coding: green(Low) to red(High)
+10. Wax-paper
+    - For separating the conductive layer from cloths 
+    - Help to reassemble later.
+11. Wire/Jumper/Cable
+    - Connect the Micro-controller to the monitor/computer 
+12. Monitor
+    - Display the output result 
+13. RGB LED (optional)
+    -  Indicating the pressure level according to color coding: green(Low) to red(High)
 
 # The sensor
 We need a sensor that can measure the pressure or pressure sensitive. I proposed smart e-Fabric, that can able to measure the pressure applied on it. To implement this type of intelligent clothes sensor, we need conductive and piezo resistive textile fabric. This type of clothes already available on the market. We need the following components are needed to make our pressure sensor.
