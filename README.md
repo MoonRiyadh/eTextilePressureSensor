@@ -1,5 +1,5 @@
 ## Name: H T M A Riyadh
-## Course: Interactive System course project, Saarland University
+## Course: Interactive System, Saarland University
 # Project Title 
 Capacitive Textile Sensing (CTS):An e-Textile for sensing the applied pressure on body to measure motor-neurological response in Glasgow Coma Scale (GCS)
 # Project Concept
@@ -57,3 +57,6 @@ We need a sensor that can measure the pressure or pressure sensitive. I proposed
 7. Then, on top of it place non conductive material and iron on it. 
 See the image below:
 ![](resources/sensor%20layout.jpg)
+## Limitation
+1. Proximity sensitivity: For some reason, this sensor also act like a proximity sensor. In context of pressure sensor, thus it may give wrong data.  
+2. Noisy data: May be because of the sensor material, without having any external pressure or touch on the sensor, continuously generate noise.  
