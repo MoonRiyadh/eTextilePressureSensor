@@ -15,10 +15,12 @@ while True:
     a = s.readline().decode()
     b = float(a)
     data = np.append(data, b)
-    print(b)
+    print(data[-1], b)
+    # print(b)
     plt.cla()
+    plt.ylim(-50, 2000)
     plt.plot(data)
     plt.pause(0.01)
-    i = i+1
+    # i = i+1
 
 s.close()
