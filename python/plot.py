@@ -18,7 +18,7 @@ while True:
     print(data[-1], b)
     # print(b)
     plt.cla()
-    plt.ylim(-50, 2000)
+    plt.ylim(10, 1000)
     plt.plot(data)
     plt.pause(0.01)
     # i = i+1

@@ -23,7 +23,7 @@ def animate(i):
     y2 = data['total_2']
 
     plt.cla()
-    plt.ylim(200, 1400)
+    plt.ylim(0, 1000)
     plt.plot(x, y1, label='Ch1')
     plt.pause(0.01)
     # plt.plot(x, y2, label='Ch2')
