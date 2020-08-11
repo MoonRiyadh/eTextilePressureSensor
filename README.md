@@ -58,5 +58,6 @@ We need a sensor that can measure the pressure/force or pressure sensitive. I pr
 See the image below:
 ![](resources/sensor%20layout.jpg)
 <div align="center"> Sensor layout </div>
-some text
+# some text
+
 ![](resources/steps_of_making_sensor.jpg)
