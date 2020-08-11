@@ -1,10 +1,10 @@
 ## Name: H T M A Riyadh
 ## Course: Interactive System, Saarland University
 # Project Title 
-Force Sensitive Textile (FST):An e-Textile for sensing the applied pressure on body to measure motor-neurological response in Glasgow Coma Scale (GCS)
+Force Sensitive Textile (FST): An e-Textile for sensing the applied pressure on body to measure motor-neurological response in Glasgow Coma Scale (GCS)
 # Project Concept
 Glasgo Coma Scale is used to asses a patient's consciousness level based on the neurological scale. Emergency medical services, nurses, physicians use GCS for assessing consciousness of patients mainly neck/head injured or trauma patients. The score level is 1 to 15. It is the initial stage of assessing neurological injured also known as traumatic brain injury patients. There are three main elements for this scale: eye, verbal and motor response. In this project I only consider the pressure input that is related to the eye and motor response. Verbal response is out of scope of this project.
-So the idea is very simple. We need to measure the applied pressure on the patient’s limbs. As it is the initial or first step assessment of the traumatized patient, so this pressure measurement should be more flexible and easily set up. So, I proposed a smart cloth that can able to measure the external pressure applied on it. CTS has the ability to measure the pressure applied on it. So simple wearable arm/wrist band or t shirt need to wear by the patient. The doctor then needs to give pressure or hit, on the pressure point covering by the CTS. So, the clothes measure how much pressure applied by the physician and observe the response of the patients. Based on the applied pressure level, and response, the neurological scale can be mapped and give the output result.
+So the idea is very simple. We need to measure the applied pressure on the patient’s limbs and the patient's response to the stimuli. As it is the initial or first step assessment of the traumatized patient, so this pressure measurement should be flexible and easily set up. So, I proposed a smart cloth that can able to measure the external pressure applied on it. FST has the ability to measure the pressure applied on it. Simple wearable arm/wrist band or t shirt needs to wear by the patient. The doctor then needs to give pressure or hit on the pressure point covering by the FST. So, the clothes measure how much pressure applied by the physician and doctor also observes the response of the patients. Based on the applied pressure level, and response, the neurological scale can be mapped and give the output result. Thus studying the patients, we can make a universal scale in accordance with each level of pressure i.e. eye blink for Level 2 pressure. 
 # List of materials
 1. Arduino Uno
    - Connect the sensor to the monitor 
@@ -40,7 +40,7 @@ So the idea is very simple. We need to measure the applied pressure on the patie
     -  Indicating the pressure level according to color coding: green(Low) to red(High)
 
 # The sensor
-We need a sensor that can measure the pressure or pressure sensitive. I proposed smart e-Fabric, that can able to measure the pressure applied on it. To implement this type of intelligent clothes sensor, we need conductive and piezo resistive textile fabric. This type of clothes already available on the market. We need the following components are needed to make our pressure sensor.
+We need a sensor that can measure the pressure/force or pressure sensitive. I proposed smart e-Fabric, that can able to measure the pressure applied on it. To implement this type of intelligent, clothe sensor, we need conductive and piezo resistive textile fabric. This type of clothes already available on the market. We need the following components are needed to make our pressure sensor.
 - Non-conductive fabric for outer layer. For the top layer, glue must be bottom face and the Bottom layer, glue must be up face.
 - Non-conductive thicker fabric for making the structure of the sensor and it must be non-elastic. 
 - Conductive Fabric. It should not be elastic. 
