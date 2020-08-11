@@ -57,4 +57,5 @@ We need a sensor that can measure the pressure/force or pressure sensitive. I pr
 7. Then, on top of it place non conductive material and iron on it. 
 See the image below:
 ![](resources/sensor%20layout.jpg)
+<div align="center"> Sensor layout </div>
 ![](resources/steps_of_making_sensor.jpg)
