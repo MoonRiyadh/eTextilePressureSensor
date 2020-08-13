@@ -64,5 +64,5 @@ See the image below:
 <div align="center"> Figure: Steps of making the sensor </div>
 
 #Circuit design
-![](resources/circuit design/FST Circuit Sketch.jpg)
+![](resources/circuit design/FST%Circuit%Sketch.jpg)
 <div align="center"> Figure: circuit design </div>
