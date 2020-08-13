@@ -57,7 +57,8 @@ We need a sensor that can measure the pressure/force or pressure sensitive. I pr
 7. Then, on top of it place non conductive material and iron on it. 
 See the image below:
 ![](resources/sensor%20layout.jpg)
+<div align="center"> Figure: Sensor layout </div>
+
+
 ![](resources/steps_of_making_sensor.jpg)
-## Limitation
-1. Proximity sensitivity: For some reason, this sensor also act like a proximity sensor. In context of pressure sensor, thus it may give wrong data.  
-2. Noisy data: May be because of the sensor material, without having any external pressure or touch on the sensor, continuously generate noise.  
+<div align="center"> Figure: Steps of making the sensor </div>
