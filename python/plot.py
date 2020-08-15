@@ -1,7 +1,12 @@
 import serial as sr
 import matplotlib.pyplot as plt
 import numpy as np
-
+"""
+at first run the data_rw_gen.py and then run the live_view.py
+it stores sensor reading in CSV file so that it can be used later or farther process for mapping values to GCS
+or 
+You can only run plot.py to view the output of the sensor
+"""
 s = sr.Serial("COM6", 9600)
 plt.close("all")
 plt.figure()
