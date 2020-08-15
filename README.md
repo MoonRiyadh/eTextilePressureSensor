@@ -63,3 +63,5 @@ See the image below:
 ![](resources/steps_of_making_sensor.jpg)
 <div align="center"> Figure: Steps of making the sensor </div>
 
+# Circuit design
+See resources/circuit design/ directory for circuit design.
